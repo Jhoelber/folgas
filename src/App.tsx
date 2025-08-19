@@ -7,6 +7,8 @@ export default function App() {
   const [codigo, setCodigo] = useState("");
   const [erro, setErro] = useState<string | null>(null);
 
+
+  
   useEffect(() => {
     (async () => {
       try {
