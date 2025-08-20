@@ -50,7 +50,7 @@ export default function App() {
               className="w-full rounded-xl border border-slate-300 bg-white px-4 py-2.5 shadow-sm focus:outline-none focus:ring-2 focus:ring-sky-400 focus:border-sky-400"
             />
           </div>
-          <p className="text-xs text-slate-500">Compartilhe apenas o seu código com cada servidor.</p>
+          <p className="text-xs text-slate-500">Não compartilhe seu código com outras pessoas.</p>
         </div>
 
         {erro && (
