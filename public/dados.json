@@ -9,7 +9,7 @@
         {
             "codigo": "25sd275",
             "nome": "Lavínia Pimentel Lavorato",
-            "folgas": "2",
+            "folgas": 2,
             "motivo": "cavalgada"
         },
         {
@@ -21,31 +21,31 @@
           {
             "codigo": "35rwt5",
             "nome": "Erica  de Souza Teixeira",
-            "folgas": 1,
+            "folgas": 3,
             "motivo": "cavalgada, fetexas"
         },
         {
             "codigo": "2gdd275",
             "nome": "Gigliane Vieira Fernandes",
-            "folgas": 3,
+            "folgas": 1,
             "motivo": "cavalgada"
         },
         {
             "codigo": "8oiu35",
             "nome": "Jhoelber Lopes Pinheiro",
-            "folgas": 1,
+            "folgas": 2,
             "motivo": "cavalgada"
         },  {
             "codigo": "3wxb675",
             "nome": "Tiago José Santana",
             "folgas": "dados a verificar",
-            "motivo": "x"
+            "motivo": "verificar"
         },
         {
             "codigo": "rekl75",
             "nome": "Rodrigo dos Santos Roberto",
-            "folgas": "dados a verificar",
-            "motivo": "x"
+            "folgas": "verificar",
+            "motivo": "0"
         },
          {
             "codigo": "3bngrr4",
@@ -58,32 +58,26 @@
             "nome": "Tati correa",
             "folgas": "1/2",
             "motivo": "cavalgada"
-        },
-        {
-            "codigo": "fdfd4",
-            "nome": "Alexandra  Baccon",
-            "folgas": 2,
-            "motivo": "cavalgada"
-        }
-        ,
+        },      
+        
          {
             "codigo": "fdfsfr",
             "nome": "Angela Maria  da Costa",
             "folgas": 1,
-            "motivo": "cavalgada"
+            "motivo": "verfiicar"
         }
         ,
         {
             "codigo": "fdfdv7",
             "nome": "Raquel",
             "folgas": 0,
-            "motivo": "cavalgada"
+            "motivo": "Sem folgas"
         },
         {
             "codigo": "pk987",
             "nome": "Wagner",
             "folgas": "0",
-            "motivo": "x"
+            "motivo": "sem folgas"
         }
     ]
 }
