@@ -3,39 +3,40 @@
         {
             "codigo": "35fs675",
             "nome": "Hiago Batorelli",
-            "folgas": 4,
-            "motivo": "cavalgada, fetexas"
+            "folgas": 6,
+            "motivo": "cavalgada, fetexas, copa norte(2 dias)"
         },
         {
             "codigo": "25sd275",
             "nome": "Lavínia Pimentel Lavorato",
-            "folgas": 2,
-            "motivo": "cavalgada"
+            "folgas": 4,
+            "motivo": "cavalgada, sebrae, compras e evento externo"
         },
         {
             "codigo": "8rws35",
             "nome": "Ana Laura Rafagnim",
-            "folgas": "1+1/2",
-            "motivo": "cavalgada"
+            "folgas": "3+1/2",
+            "motivo": "cavalgada + evento externo"
         },
-          {
+        {
             "codigo": "35rwt5",
             "nome": "Erica  de Souza Teixeira",
             "folgas": 3,
-            "motivo": "cavalgada, fetexas"
+            "motivo": "cavalgada e fetexas"
         },
         {
             "codigo": "2gdd275",
             "nome": "Gigliane Vieira Fernandes",
-            "folgas": 1,
-            "motivo": "cavalgada"
+            "folgas": 3,
+            "motivo": "cavalgada, sebrae e compras"
         },
         {
             "codigo": "8oiu35",
             "nome": "Jhoelber Lopes Pinheiro",
             "folgas": 2,
             "motivo": "cavalgada"
-        },  {
+        },
+        {
             "codigo": "3wxb675",
             "nome": "Tiago José Santana",
             "folgas": "dados a verificar",
@@ -47,31 +48,30 @@
             "folgas": "verificar",
             "motivo": "0"
         },
-         {
-            "codigo": "3bngrr4",
-            "nome": "Matheus Henrique Jorge",
-            "folgas": 1,
-            "motivo": "cavalgada"
-        },
         {
             "codigo": "gdffd5t",
             "nome": "Tati correa",
             "folgas": "1/2",
             "motivo": "cavalgada"
-        },      
-        
-         {
+        },
+        {
             "codigo": "fdfsfr",
             "nome": "Angela Maria  da Costa",
-            "folgas": 1,
-            "motivo": "verfiicar"
-        }
-        ,
+            "folgas": 0,
+            "motivo": "Sem folgas"
+        },
         {
             "codigo": "fdfdv7",
             "nome": "Raquel",
             "folgas": 0,
             "motivo": "Sem folgas"
+        },
+        
+        {
+            "codigo": "sa34fl",
+            "nome": "Lucas Becker",
+            "folgas": 1,
+            "motivo": "Copa norte"
         },
         {
             "codigo": "pk987",
