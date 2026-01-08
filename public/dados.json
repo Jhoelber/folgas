@@ -3,13 +3,13 @@
         {
             "codigo": "35fs675",
             "nome": "Hiago Batorelli",
-            "folgas": 6,
+            "folgas": 3,
             "motivo": "cavalgada, fetexas, copa norte(2 dias)"
         },
         {
             "codigo": "25sd275",
             "nome": "Lavínia Pimentel Lavorato",
-            "folgas": 4,
+            "folgas": 3,
             "motivo": "cavalgada, sebrae, compras e evento externo"
         },
         {
@@ -33,8 +33,8 @@
         {
             "codigo": "8oiu35",
             "nome": "Jhoelber Lopes Pinheiro",
-            "folgas": 2,
-            "motivo": "cavalgada"
+            "folgas": 0,
+            "motivo": "sem folgas"
         },
         {
             "codigo": "3wxb675",
