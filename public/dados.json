@@ -9,25 +9,25 @@
         {
             "codigo": "25sd275",
             "nome": "Lavínia Pimentel Lavorato",
-            "folgas": 3,
+            "folgas": 4,
             "motivo": "cavalgada, sebrae, compras e evento externo"
         },
         {
             "codigo": "8rws35",
             "nome": "Ana Laura Rafagnim",
-            "folgas": "3+1/2",
+            "folgas": "4+1/2",
             "motivo": "cavalgada + evento externo"
         },
         {
             "codigo": "35rwt5",
             "nome": "Erica  de Souza Teixeira",
-            "folgas": 0,
+            "folgas": 2,
             "motivo": "cavalgada e fetexas"
         },
         {
             "codigo": "2gdd275",
             "nome": "Gigliane Vieira Fernandes",
-            "folgas": 0,
+            "folgas": 2,
             "motivo": "Sem folgas"
         },
         {
@@ -70,7 +70,7 @@
         {
             "codigo": "sa34fl",
             "nome": "Lucas Becker",
-            "folgas": 3,
+            "folgas": 2,
             "motivo": "Copa norte"
         },
         {
