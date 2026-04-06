@@ -3,8 +3,8 @@
         {
             "codigo": "35fs675",
             "nome": "Hiago Batorelli",
-            "folgas": 3,
-            "motivo": "cavalgada, fetexas, copa norte(2 dias)"
+            "folgas": 4,
+            "motivo": "cavalgada, copa norte(2 dias)"
         },
         {
             "codigo": "25sd275",
@@ -21,7 +21,7 @@
         {
             "codigo": "35rwt5",
             "nome": "Erica  de Souza Teixeira",
-            "folgas": 2,
+            "folgas": 1,
             "motivo": "cavalgada e fetexas"
         },
         {
@@ -65,14 +65,14 @@
         {
             "codigo": "sa34fl",
             "nome": "Lucas Becker",
-            "folgas": 1,
+            "folgas": 2,
             "motivo": "Copa norte"
         },
         {
             "codigo": "pk987",
             "nome": "Wagner",
-            "folgas": "0",
-            "motivo": "sem folgas"
+            "folgas": "1/2",
+            "motivo": "Fim de ano"
         }
     ]
 }
