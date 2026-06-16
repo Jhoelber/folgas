@@ -27,13 +27,13 @@
         {
             "codigo": "2gdd275",
             "nome": "Gigliane Vieira Fernandes",
-            "folgas": 2,
+            "folgas": 3,
             "motivo": "Sem folgas"
         },
         {
             "codigo": "8oiu35",
             "nome": "Jhoelber Lopes Pinheiro",
-            "folgas": 0,
+            "folgas": 1,
             "motivo": "sem folgas"
         },
         {
@@ -51,7 +51,7 @@
         {
             "codigo": "gdffd5t",
             "nome": "Tati correa",
-            "folgas": "2",
+            "folgas": "3",
             "motivo": "sem folgas"
         },
        
@@ -65,7 +65,7 @@
         {
             "codigo": "lucas",
             "nome": "Lucas Becker",
-            "folgas": 0,
+            "folgas": 2,
             "motivo": "Copa norte"
         },
         {
